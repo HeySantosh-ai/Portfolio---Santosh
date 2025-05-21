@@ -111,7 +111,7 @@
     </div>
   </section>  <section id="contact" class="contact">
     <h2>Contact Me</h2>
-    <p>Email: your.email@example.com</p>
+    <p>Email: tg701198@gmail.com</p>
     <a class="btn" href="resume.pdf" download>Download Resume</a>
   </section>
 </body>
